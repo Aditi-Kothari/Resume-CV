@@ -112,14 +112,7 @@ img{
   color: #fff;
   font-weight: 300;
 }
-.contact.language .percent{
-  position: relative;
-  display: block;
-  width: 100%;
-  height: 6px;
-  color: red;
-  margin-top: 15px;
-}
+
 .percent{
   position: relative;
   width: 100%;
@@ -207,7 +200,7 @@ img{
 }
  .social ul{
   display: grid;
-  grid-template-columns: repeat(3,1fr);
+  grid-template-columns: repeat(4,1fr);
 }
 .social li{
   list-style: none;
